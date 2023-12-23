@@ -1,6 +1,7 @@
 %lang starknet
 %builtins range_check
 
+# this is sample program for the function
 # Alphabet substitution cipher for each letter.
 # a = 01, b = 02, etc.
 
