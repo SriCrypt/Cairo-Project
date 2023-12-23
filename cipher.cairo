@@ -6,6 +6,8 @@
 
 #define hello variable
 const hello = 10000805121215  # 08, 05, 12, 12, 15.
+
+#define world variable
 const world = 10002315181204  # 23, 15, 18, 12, 04.
 
 @view
